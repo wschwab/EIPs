@@ -3,7 +3,7 @@ eip: <to be assigned>
 title: Permit for ERC712 NFTs
 description: ERC712-singed approvals for ERC712 NFTs
 author: Simon Fremaux (@dievardump), William Schwab (@wschwab)
-discussions-to: <URL>
+discussions-to: https://ethereum-magicians.org/t/eip-extending-erc2612-style-permits-to-erc721-nfts/7519
 status: Draft
 type: Standards Track
 category: ERC
